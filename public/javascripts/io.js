@@ -1,4 +1,4 @@
-var socket = io.connect('127.0.0.1:3000');
+var socket = io.connect('');
  
   // Connectivity
   socket.emit('username', 'guven');
